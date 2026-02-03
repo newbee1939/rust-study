@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+
+- use Conventional Commits for commit message
+- use English to create commit message
