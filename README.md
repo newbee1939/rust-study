@@ -2,7 +2,8 @@
 
 ## Phase 1: 基礎
 
-- [ ] [Rustツアー](https://tourofrust.com/chapter_1_ja.html) - rust.mdにまとめながら進める
+- [ ] [Rustツアー](https://tourofrust.com/chapter_1_ja.html)
+    - rust.mdにまとめながら進める
 - [ ] [The Rust Programming Language](https://doc.rust-lang.org/book/) の重要章を読む
 
 ## Phase 2: 実践
@@ -17,4 +18,4 @@
 
 ## Phase 4: ツール開発
 
-- [ ] 小さなツールを作成
+- [ ] Rustを用いて小さなツールを作成
