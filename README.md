@@ -4,8 +4,10 @@
 
 - [ ] [Rustツアー](https://tourofrust.com/chapter_1_ja.html)
     - rust.mdにまとめながら進める
-- [ ] [The Rust Programming Language](https://doc.rust-lang.org/book/) の重要章を読む
+    - 腹落ちするまで次のページには進まない
+- [ ] [The Rust Programming Language](https://doc.rust-lang.org/book/)
     - rust.mdにまとめながら進める
+    - 腹落ちするまで次のページには進まない
 
 ## Phase 2: 実践
 
