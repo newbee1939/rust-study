@@ -2,7 +2,7 @@
 
 ## Phase 1: Rust基礎 🌱
 
-### 1.1 入門書で基礎固め
+### 1.1 入門コンテンツで基礎固め
 
 - [ ] [Rust入門](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003) を完了
   - [ ] 環境構築（rustup, cargo）
@@ -13,6 +13,8 @@
   - [ ] 所有権（Ownership）の理解 ⭐重要
   - [ ] 借用（Borrowing）と参照の理解 ⭐重要
   - [ ] ライフタイム（Lifetime）の基礎 ⭐重要
+- [ ] [Rustツアー](https://tourofrust.com/chapter_1_ja.html)
+  - 全部やる
 
 ### 1.2 公式ドキュメントで補強
 
