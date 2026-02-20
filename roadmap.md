@@ -4,17 +4,9 @@
 
 ### 1.1 入門コンテンツで基礎固め
 
-- [ ] [Rust入門](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003) を完了
-  - [ ] 環境構築（rustup, cargo）
-  - [ ] 変数と型
-  - [ ] 制御構文（if, loop, match）
-  - [ ] 関数
-  - [ ] 構造体（struct）と列挙型（enum）
-  - [ ] 所有権（Ownership）の理解 ⭐重要
-  - [ ] 借用（Borrowing）と参照の理解 ⭐重要
-  - [ ] ライフタイム（Lifetime）の基礎 ⭐重要
 - [ ] [Rustツアー](https://tourofrust.com/chapter_1_ja.html)
   - 全部やる
+  - rust.mdに自分の言葉でまとめながら
 
 ### 1.2 公式ドキュメントで補強
 
