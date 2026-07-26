@@ -17,6 +17,9 @@
 
 ## Phase 3: コードリーディング
 
+- [ ] [rust-sample](https://github.com/newbee1939/rust-sample)
+    - Rustのプロジェクトのサンプル
+    - コードリーディングしながら学ぶ
 - [ ] [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 ## Phase 4: ツール開発
