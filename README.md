@@ -8,6 +8,7 @@
 - [ ] [The Rust Programming Language](https://doc.rust-lang.org/book/)
     - rust.mdにまとめながら進める
     - 腹落ちするまで次のページには進まない
+- [ ] [Progate: Rust](https://progate.com/courses/feature/rust)
 
 ## Phase 2: 実践
 
